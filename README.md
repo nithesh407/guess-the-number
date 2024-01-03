@@ -19,8 +19,8 @@ The game is two-person game called "Guess the Number". The first player thinks o
   
 # App Link
    
-     Game Link: https://nithesh407.github.io/guess-the-number.github.io
+     https://nithesh407.github.io/guess-the-number/
      
-<a href="https://nithesh407.github.io/guess-the-number.github.io">click here to play</a>
+<a href="https://nithesh407.github.io/guess-the-number/">click here to play</a>
 
 
